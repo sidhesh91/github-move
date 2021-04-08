@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T06:49:58.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.5.7" etag="DTrkhnw329lw4win1aPm" type="github"><diagram id="39AXm1hqFDN-DFkX0bPA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-08T06:52:16.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4y2oqVDnepl-10u8Mh-Q" version="14.5.7" type="github">
+  <diagram id="39AXm1hqFDN-DFkX0bPA" name="Page-1">
+    <mxGraphModel dx="868" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jNbaGFS5a9ajyNLiX4lt-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="22" y="154.5" width="169" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="jNbaGFS5a9ajyNLiX4lt-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.active_directory_federation_services_server;" vertex="1" parent="1">
+          <mxGeometry x="69" y="219" width="45" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="jNbaGFS5a9ajyNLiX4lt-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="133" y="222" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jNbaGFS5a9ajyNLiX4lt-6" value="gsatraom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="209" width="120" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="jNbaGFS5a9ajyNLiX4lt-7" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.active_directory_federation_services_server_orange;" vertex="1" parent="1">
+          <mxGeometry x="621" y="232" width="45" height="56" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
